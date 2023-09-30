@@ -3,11 +3,15 @@
 Machine Learning
 
 In this notebook,
+
 I explore the Breast Cancer dataset and develop a Logistic Regression
+
 model to try classifying suspected cells to Benign or Malignant.
 
 Using the Breast Cancer Wisconsin (Diagnostic) Database, 
+
 we can create a classifier that can help diagnose patients and predict the likelihood of a breast cancer
+
 .A few machine learning techniques will be explored.
 
 
