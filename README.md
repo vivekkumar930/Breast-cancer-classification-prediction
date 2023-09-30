@@ -9,8 +9,13 @@ we can create a classifier that can help diagnose patients and predict the likel
 Attribute information:
 
 ID number
+
+
 Diagnosis (M = malignant, B = benign)
+
+
 3-32: Ten real-valued features are computed for each cell nucleus:
+
 a) radius (mean of distances from center to points on the perimeter)
 b) texture (standard deviation of gray-scale values)
 c) perimeter
